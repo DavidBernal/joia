@@ -1,7 +1,10 @@
 # Joia
 
-![Image of Joia](./diamond.png)
 Joi wrapper to promisify your validations for NodeJS
+
+![Image of Joia](./diamond.png)
+
+Icon made by [Smashicon](https://smashicons.com/) from www.flaticon.com
 
 ## How to use
 
@@ -65,4 +68,4 @@ Person.validate([a, b])
   .then(r => console.log(r)); // result is an array of values and errors
 ```
 
-Look exmaple folder for more details
+Look example folder for more details
